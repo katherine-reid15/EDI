@@ -6,13 +6,13 @@ function preload(){
 
 function setup() {//runs once
   createCanvas(windowWidth, windowWidth);
-  background(200, 200, 200);
+  background(255, 255, 255);
 }
 
 function draw() {//runs in a loop
   fill('olive');
   strokeWeight(1);
-  var num = 5;
+  var num = 20;
   var sideLen = windowWidth/num;
 
   for(var y = 0; y < windowWidth; y = y + sideLen) {
