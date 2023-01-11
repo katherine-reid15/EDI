@@ -6,7 +6,8 @@ function preload(){
 
 function setup() {//runs once
   createCanvas(windowWidth, windowWidth);
-  background(255, 255, 255);
+  background(255, 255, 255
+  );
 }
 
 function draw() {//runs in a loop
