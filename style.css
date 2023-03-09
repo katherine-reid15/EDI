@@ -16,6 +16,7 @@ img {
 
 h1{
   color: red;
+    font-size: 10px;
 	   -webkit-text-stroke-width: 4px;
      -webkit-text-stroke-color: white;
      position: absolute;
