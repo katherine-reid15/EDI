@@ -16,9 +16,8 @@ img {
 
 h1{
   color: black;
+  background-color: color white;
     font-size: 50px;
-	   -webkit-text-stroke-width: 4px;
-     -webkit-text-stroke-color: white;
      position: absolute;
      left: 50%;
      transform: translateX(-50%) translateY(-50%);
