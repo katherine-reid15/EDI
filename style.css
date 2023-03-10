@@ -31,8 +31,7 @@ h2 {
 
 h3 {
   color: white;
-	   -webkit-text-stroke-width: 4px;
-     -webkit-text-stroke-color: black;
+	   background-color: color white;
      position: absolute;
 }
 
