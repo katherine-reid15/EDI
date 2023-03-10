@@ -15,10 +15,10 @@ img {
 }
 
 h1{
-  color: red;
-    font-size: 100px;
+  color: white;
+    font-size: 50px;
 	   -webkit-text-stroke-width: 4px;
-     -webkit-text-stroke-color: white;
+     -webkit-text-stroke-color: black;
      position: absolute;
      left: 50%;
      transform: translateX(-50%) translateY(-50%);
