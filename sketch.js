@@ -1,7 +1,7 @@
 //create a program that enables us to customize the number of squares in a grid
 let img;
 function preload(){
-  img = loadImage('assets/GraphicWeb.png');
+  img = loadImage('../assets/GraphicWeb.png');
 }
 
 function setup() {//runs once
